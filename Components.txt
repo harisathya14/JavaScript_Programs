@@ -1,0 +1,17 @@
+What is a Component?
+    React is all about "Components"
+    Reusable building blocks
+    You build these individual Components and then you tell React
+    how to compose them together into a final user interface
+
+Why Components?
+    Reusability
+    Don't repeat yourself
+    Separation of concerns
+    Don't do too many things in one and the same place(function)
+
+How is a Component Built?
+    HTML, CSS, JS = React
+
+
+React uses Declarative Approach
